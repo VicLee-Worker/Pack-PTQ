@@ -25,7 +25,7 @@ Pack-PTQ addresses the challenge of neural network quantization by:
 
 ```bash
 git clone https://github.com/VicLee-Worker/Pack-PTQ.git
-cd Pack_PTQ
+cd Pack-PTQ
 pip install -r requirements.txt
 ```
 
